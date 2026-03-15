@@ -8,7 +8,7 @@
 #
 # Deployment Execution:
 #   Run the following commands in your terminal to download and execute:
-#   wget https://github.com/troy-black/RetroGaming/arcade.sh -O ~/arcade.sh
+#   wget https://raw.githubusercontent.com/troy-black/RetroGaming/refs/heads/main/arcade.sh -O ~/arcade.sh
 #   chmod +x ~/arcade.sh
 #   ~/arcade.sh
 # ==============================================================================
